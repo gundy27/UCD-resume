@@ -1,2 +1,2 @@
 # UCD-resume
-First milestone project
+Resume CV site from UCD
